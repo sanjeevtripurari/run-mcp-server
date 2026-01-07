@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+num2words
+requests
+mcp
